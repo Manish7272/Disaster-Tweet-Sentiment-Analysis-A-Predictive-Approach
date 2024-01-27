@@ -1,9 +1,10 @@
-# A Predictive Analysis of Disaster Tweets Using NLP
+# Disaster Tweet Sentiment Analysis A Predictive Approach.
 <h1>🙂😐🙁</h1>
 <hr> 
 
 ## 🔷Introduction
 This project aims to predict disaster-related tweets through the implementation of Natural Language Processing (NLP) techniques. By leveraging deep learning models and preprocessing methodologies, the project offers a real-time solution for identifying tweets that may be associated with disasters.
+
 
 ## 🔷Screenshots of Tweet is Disaster or Not -
 ### 🌞🌞 -> Non-disaster Tweet.
@@ -18,6 +19,7 @@ This project aims to predict disaster-related tweets through the implementation 
 - Integrate the NLP model into a user-friendly Streamlit application.
 - Provide accurate predictions and probabilities for real-time disaster monitoring.
 
+
 ## 🔷Data Preprocessing with NLP
 The project employs comprehensive NLP-driven data preprocessing steps to ensure meaningful analysis. Key preprocessing steps include:
 - Lowercasing, HTML tag removal, and handling special characters.
@@ -25,16 +27,19 @@ The project employs comprehensive NLP-driven data preprocessing steps to ensure 
 - Acronym and contraction substitution using predefined dictionaries.
 - Lemmatization, stopwords removal, and custom noise reduction.
 
+
 ## 🔷NLP Model Development
 The NLP model is designed to effectively classify tweets into disaster and non-disaster categories. Notable aspects of the model development include:
 - Tokenization and lemmatization as key NLP techniques.
 - High-level architecture overview without disclosing specific model names.
 - Training details and considerations for deep learning in NLP.
 
+
 ## 🔷Streamlit Application Integration
 The NLP model is seamlessly integrated into a Streamlit application, providing a user-friendly interface for real-time tweet analysis. Key features of the Streamlit application include:
 - User input processing for dynamic tweet analysis.
 - Display of predictions, probabilities, and an engaging user interface.
+
 
 # 🔶Learning Outcomes
 
