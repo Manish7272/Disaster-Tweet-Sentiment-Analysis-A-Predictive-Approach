@@ -51,20 +51,20 @@ The NLP model is seamlessly integrated into a Streamlit application, providing a
 
 This project has provided valuable learning experiences and insights in various aspects, including:
 
-### 🔹 Natural Language Processing (NLP):
+### 🔸 Natural Language Processing (NLP):
 
 - **Data Preprocessing:** Gained proficiency in preprocessing textual data for NLP applications, addressing challenges such as emoji handling, acronym substitution, and stopwords removal.
 - **Tokenization and Lemmatization:** Implemented effective tokenization and lemmatization techniques for feature extraction from text data.
 
-### 🔹 Streamlit Application Development:
+### 🔸 Streamlit Application Development:
 - **User Interface Design:** Created an interactive and user-friendly interface using Streamlit, enhancing user experience in real-time tweet analysis.
 - **Integration of Models:** Successfully integrated the NLP model into the Streamlit application, allowing seamless user interaction.
 
-### 🔹 Collaboration and Future Development:
+### 🔸 Collaboration and Future Development:
 - **Collaborative Opportunities:** Recognized potential avenues for collaboration, including adapting the model for different languages and disaster types.
 - **Future Enhancements:** Identified areas for future development, such as incorporating additional features or data sources for improved prediction.
 
-### 🔹 Documentation and Communication:
+### 🔸 Documentation and Communication:
 - **README Composition:** Practiced the creation of a comprehensive README file, effectively communicating the project's objectives, methodologies, and outcomes.
 - **Closing Statement:** Crafted a closing statement expressing gratitude and acknowledging the project's impact, emphasizing the importance of ongoing research in NLP.
 
